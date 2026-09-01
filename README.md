@@ -1,38 +1,71 @@
-# Autoparts Store
+# Hola, soy Jorge 👋
 
-Plataforma web para administración y venta de autopartes.
+Desarrollador de software enfocado en aplicaciones web,
+backend y sistemas completos.
 
-## Preview
+## 🚀 Tecnologías
 
-[imagen o GIF]
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Flutter
 
-## Características
+### Backend
+- Node.js
+- Express
+- Java
+- Spring Boot
 
-- Gestión de productos
-- Inventario en tiempo real
-- Autenticación
-- Roles de usuario
-- Gestión de ventas
-- Panel administrativo
+### Bases de datos
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
 
-## Tecnologías
+### Herramientas
+- Git
+- GitHub
+- Docker
+- Postman
+- Linux
 
-Frontend:
-React · TypeScript · Tailwind
+## 📌 Proyectos destacados
 
-Backend:
-Node.js · Express
+### 🛒 E-commerce de autopartes
+Sistema completo de venta y gestión de inventario.
 
-Database:
-MongoDB · Redis
+Frontend: React  
+Backend: Node.js / Express  
+Base de datos: MongoDB  
+Características:
+- autenticación
+- inventario
+- gestión de pedidos
+- panel administrativo
+- control de estados de venta
 
-## Arquitectura
+[Repositorio] | [Demo]
 
-Frontend → REST API → Backend → Database
+---
 
-## Instalación
+### 📦 API REST de inventario
 
-```bash
-git clone ...
+Backend para gestión de productos, usuarios y ventas.
+
+Tecnologías:
+Node.js · Express · PostgreSQL · JWT · Docker
+
+[Repositorio]
+
+---
+
+### 🌐 Portfolio Web
+
+Portfolio personal desarrollado con React.
+
+[Repositorio] | [Demo]
 npm install
 npm run dev
