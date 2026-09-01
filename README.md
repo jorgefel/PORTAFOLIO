@@ -1,9 +1,9 @@
-# Hola, soy Jorge 👋
+# Hola, soy Jorge 
 
 Desarrollador de software enfocado en aplicaciones web,
 backend y sistemas completos.
 
-## 🚀 Tecnologías
+## Tecnologías
 
 ### Frontend
 - HTML
@@ -32,9 +32,9 @@ backend y sistemas completos.
 - Postman
 - Linux
 
-## 📌 Proyectos destacados
+##  Proyectos destacados
 
-### 🛒 E-commerce de autopartes
+###  E-commerce de autopartes
 Sistema completo de venta y gestión de inventario.
 
 Frontend: React  
@@ -47,11 +47,10 @@ Características:
 - panel administrativo
 - control de estados de venta
 
-[Repositorio] | [Demo]
 
 ---
 
-### 📦 API REST de inventario
+###  API REST de inventario
 
 Backend para gestión de productos, usuarios y ventas.
 
@@ -62,7 +61,7 @@ Node.js · Express · PostgreSQL · JWT · Docker
 
 ---
 
-### 🌐 Portfolio Web
+###  Portfolio Web
 
 Portfolio personal desarrollado con React.
 
